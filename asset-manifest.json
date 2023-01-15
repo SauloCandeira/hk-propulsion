@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SauloCandeira/hk-propulsion/static/css/main.fa4df911.css",
-    "main.js": "/SauloCandeira/hk-propulsion/static/js/main.909dda00.js",
-    "static/js/787.b701888c.chunk.js": "/SauloCandeira/hk-propulsion/static/js/787.b701888c.chunk.js",
-    "static/media/hk.png": "/SauloCandeira/hk-propulsion/static/media/hk.fd911ad39bf1032dae69.png",
-    "index.html": "/SauloCandeira/hk-propulsion/index.html",
-    "main.fa4df911.css.map": "/SauloCandeira/hk-propulsion/static/css/main.fa4df911.css.map",
-    "main.909dda00.js.map": "/SauloCandeira/hk-propulsion/static/js/main.909dda00.js.map",
-    "787.b701888c.chunk.js.map": "/SauloCandeira/hk-propulsion/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/hk-propulsion/static/css/main.41606337.css",
+    "main.js": "/hk-propulsion/static/js/main.3b6bd326.js",
+    "static/js/787.b701888c.chunk.js": "/hk-propulsion/static/js/787.b701888c.chunk.js",
+    "static/media/hk.png": "/hk-propulsion/static/media/hk.fd911ad39bf1032dae69.png",
+    "index.html": "/hk-propulsion/index.html",
+    "main.41606337.css.map": "/hk-propulsion/static/css/main.41606337.css.map",
+    "main.3b6bd326.js.map": "/hk-propulsion/static/js/main.3b6bd326.js.map",
+    "787.b701888c.chunk.js.map": "/hk-propulsion/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa4df911.css",
-    "static/js/main.909dda00.js"
+    "static/css/main.41606337.css",
+    "static/js/main.3b6bd326.js"
   ]
 }
